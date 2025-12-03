@@ -1,0 +1,8 @@
+{
+  "name": "Gesture Particle Sandbox",
+  "description": "A 3D particle sandbox controlled by hand gestures and audio. Open your hand to scatter particles, close your fist to assemble them. Features custom drawing, audio reactivity, and multiple presets.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
